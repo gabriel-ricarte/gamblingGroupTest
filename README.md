@@ -1,5 +1,5 @@
 # App to read file and return affiliates within 100 km
-### Steps to run
+### Running application
 - execute command `composer update`
 - create file .env using .env.example as an example
 - generate the key with the command  `php artisan key:generate`
